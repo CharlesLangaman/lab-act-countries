@@ -1,4 +1,4 @@
-import {NavLink, Outlet} from "React-router";
+import {NavLink, Outlet} from "react-router";
 
 const Layout = () => {
     return (
